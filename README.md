@@ -1,0 +1,1 @@
+# Random-Fatigue-Life-Prediction-by-Means-of-Nonconstant-Variance-Probabilistic-Neural-Network
